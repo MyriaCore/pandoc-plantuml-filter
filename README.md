@@ -16,8 +16,8 @@ Alice <-- Bob: another authentication Response
 
 Install it with pip:
 
-```
-pip install pandoc-plantuml-filter
+```sh
+pip install git+https://github.com/MyriaCore/pandoc-plantuml-filter.git
 ```
 
 And use it like any other pandoc filter:
